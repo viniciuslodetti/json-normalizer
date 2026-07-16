@@ -79,9 +79,3 @@ productsTratado.json
 Sugestões, melhorias e contribuições são sempre bem-vindas.
 
 Sinta-se à vontade para abrir uma Issue ou enviar um Pull Request.
-
----
-
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT.
